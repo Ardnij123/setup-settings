@@ -1,0 +1,5 @@
+[credential]
+	username = ardnij123
+	helper = /usr/share/doc/git/contrib/credential/libsecret/git-credential-libsecret
+[user]
+	email = ardnij123@gmail.com
